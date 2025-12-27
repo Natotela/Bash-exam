@@ -1,0 +1,2 @@
+# .gitattributes (add to repo root)
+*.sh text eol=lf
